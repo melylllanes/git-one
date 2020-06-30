@@ -11,6 +11,7 @@ public class App
     {
     	//Comment
         System.out.println( "Hello World Peopleeeeee" );
+        System.out.println( "Hello World!" );
     }
 }
 
